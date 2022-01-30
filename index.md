@@ -5,7 +5,7 @@
 
 ### Maharaja Agrasen Institute of Technology (Aug 2005 - May 2009)
 * B.Tech in Electrical and Electronics Engineering.
-##
+ 
  
 ## Work Experience
 ### Walmart Labs, Bengaluru
