@@ -19,16 +19,12 @@
 * **Data Scientist (Nov’16 – Aug’18) 
 * Institution profiling for Elsevier is being utilised as one of the key products to compile Global University Rankings  based on research orientation and contribution to society. The data is utilised by Times Higher Education (THE)  and US NEWS among others. 
 	
-### VYMO, India 
-* **Sr. Data Scientist (May’16 to Nov’16) 
-* AI enabled Sales Assistant: One of its kind in Sales assistant space that involved designing a lead scoring system  to help sales force in targeting the leads with a higher likelihood of conversion. AI enabled assistant (with a F-beta  of ~82%) led to 32% increase in conversion rate within first month of deployment. Tech stack involved MongoDB,  ElasticSearch and Kafka. 
+
 
 ### MIQ (MediaIQ), India 
 * **Data Scientist (Jul’15 - May’16) 
 
-### Harman Connected Services (Symphony Teleca), India 
-* **Data Scientist, (Feb’15 – Jul’15) 
-* iCREATE AWARD winner for multiple successful POCs 
+
 
 ### Oracle, India 
 * **Analyst (Jul’13 - Feb’15) 
